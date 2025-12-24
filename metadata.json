@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Satwik Universe Associate Portal",
+  "description": "A comprehensive referral management system for Satwik Universe associates to track referrals, earn points, and manage unique QR codes, with an integrated admin backend for performance tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
